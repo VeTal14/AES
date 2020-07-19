@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AESCypher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AESCypher_jar</output-path>
+    <root id="archive" name="AESCypher.jar">
+      <element id="module-output" name="AESCypher" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
